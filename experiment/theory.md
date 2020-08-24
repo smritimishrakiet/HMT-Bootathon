@@ -1,0 +1,1 @@
+We know that by adding more insulation to a wall always decreases heat transfer. The thicker the insulation, the lower the heat transfer rate. This is expected, since the heat transfer area A is constant, and adding insulation always increases the thermal resistance of the wall without affecting the convection resistance.
