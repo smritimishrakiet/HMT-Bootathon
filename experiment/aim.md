@@ -1,1 +1,1 @@
-
+To study the critical radius phenomena and to show experimentally that heat loss across the insulation is maximum at critical radius, provided the convection boundary condition at outer surface is constant.
