@@ -34,11 +34,11 @@ AKTU : universities mapped
 
 #### Mentor Details
 
-<b>Mentored by | <b> T.S.S.Subramanian
+<b>Mentored by | <b> Dr. Ramesh Sharma 
 :--|:--|
-<b> Institute | <b> Hindustan College of Science & Technology Mathura
-<b> Email id|     <b> tss.senthil.hcst@sgei.org
-<b> Department | Institute Industry Interface Program
+<b> Institute | <b> Feroze Gandhi Institute of Engineering and Technology Raebareli
+<b> Email id|     <b> sharmarameshfgiet@gmail.com
+<b> Department | Applied Science
 
 #### Contributors List
 
