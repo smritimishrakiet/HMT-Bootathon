@@ -36,7 +36,7 @@ Students of mechanical engineering department (Specially 5th semester students) 
 
 <h5> Course Alignment : </h5>
 
-B.Tech ME
+B.Tech MECHANICAL ENGINEERING
 
 <h5> Universities Mapped : </h5>
 
