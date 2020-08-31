@@ -10,7 +10,23 @@
 
 <h5> About the Lab (Objective) : </h5>
 
-Heat & Mass Transfer Laboratory 
+Heat and Mass transfer is the flow of thermal energy driven by thermal non-equilibrium (i.e. the effect of a non-
+uniform temperature field), commonly measured as a heat flux (vector), i.e. the heat flow per unit time (and 
+usually unit normal area) at a control surface.
+The aim here is to understand heat transfer modelling, but the actual goal of most heat transfer (modelling) 
+problems is to find the temperature field and heat fluxes in a material domain, given a previous knowledge 
+of the subject (general partial differential equations, PDE), and a set of particular constraints: boundary 
+conditions (BC), initial conditions (IC), distribution of sources or sinks (loads), etc. There are also many 
+cases where the interest is just to know when the heat-transfer process finishes, and in a few other cases the 
+goal is not in the direct problem (given the PDE+BC+IC, find the T-field) but on the inverse problem: given 
+the T-field and some aspects of PDE+BC+IC, find some missing parameters (identification problem), e.g. 
+finding the required dimensions or materials for a certain heat insulation or conduction goal.
+Heat-transfer problems arise in many industrial and environmental processes, particularly in energy 
+utilization, thermal processing, and thermal control. Energy cannot be created or destroyed, but so-common 
+it is to use energy as synonymous of exergy, or the quality of energy, than it is commonly said that energy 
+utilization is concerned with energy generation from primary sources (e.g. fossil fuels, solar), to end-user 
+energy consumption (e.g. electricity and fuel consumption), through all possible intermediate steps of energy 
+valorisation, energy transportation, energy storage, and energy conversion processes. 
 
 <h5> About the Experiment : </h5>
 
