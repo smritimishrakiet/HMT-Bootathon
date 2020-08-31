@@ -20,7 +20,7 @@ Students of mechanical engineering department (Specially 5th semester students) 
 
 <h5> Course Alignment : </h5>
 
-In this course student will be able to learn about the analysis of heat flow in any cylindrical surface when the outer layer of the surface is insulated completely. This experiment engage students in analysis and prepare them to achieve the intended learning objectives.
+B.Tech ME
 
 <h5> Universities Mapped : </h5>
 
@@ -44,11 +44,10 @@ AKTU : universities mapped
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Smriti Mishra | Faculty | ME | KIET Group of Institution, Delhi-NCR, Ghaziabad | smirti.mishra@kiet.edu
-2 | Prathu Singh | Student | CSE | KIET Group of Institution, Delhi-NCR, Ghaziabad |prathu.1822me1195@kiet.edu
-3 | Atul Kashayap | Student | CSE | KIET Group of Institution, Delhi-NCR, Ghaziabad |atulk4719235753721@gmail.com
-4 | Aditi Srivastava | Student | CSE | KIET Group of Institution, Delhi-NCR, Ghaziabad |aditi.1822cs1017@kiet.edu
-5 | Eksha Singh | Student | IT | KIET Group of Institution, Delhi-NCR, Ghaziabad |eksha.1822it1055@kiet.edu
+1 | Prathu Singh | Student | CSE | KIET Group of Institution, Delhi-NCR, Ghaziabad |prathu.1822me1195@kiet.edu
+2 | Atul Kashayap | Student | CSE | KIET Group of Institution, Delhi-NCR, Ghaziabad |atulk4719235753721@gmail.com
+3 | Aditi Srivastava | Student | CSE | KIET Group of Institution, Delhi-NCR, Ghaziabad |aditi.1822cs1017@kiet.edu
+4 | Eksha Singh | Student | IT | KIET Group of Institution, Delhi-NCR, Ghaziabad |eksha.1822it1055@kiet.edu
 
 <br>
 for more details on Rounds visit : <b> [HERE](http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/List-of-Rounds/blob/master/README.md) </b>
