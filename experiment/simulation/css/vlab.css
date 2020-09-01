@@ -218,7 +218,7 @@ body {
 .aim{
     font-family: sans-serif;
     font-size: 25px;
-    margin-top: 40px;
+    margin-top: 10px;
     color: #6381Cf;
 }
 .calculation
@@ -253,3 +253,24 @@ body {
     -ms-filter: blur(1px);
     filter: blur(20px);
 }
+#stopwatch {
+    background: #eee;
+    border: 1px solid #999;
+    padding: 10px;
+    border-radius: 10px;
+    max-width: 200px;
+  }
+  #sw-time {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+  }
+  #sw-rst, #sw-go {
+    width: 45%;
+    box-sizing: padding-box;
+    padding: 5px;
+    display: inline-block;
+    background: #6381CF;
+    border: 0;
+    color: #fff;
+  }
