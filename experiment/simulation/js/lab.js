@@ -1,4 +1,4 @@
-
+var i = 0;
 
 function calculation() {
 var voltage = document.getElementById("user_voltage").value;
@@ -16,10 +16,10 @@ var temp_diff = outer_temp - ambient_temp;
 var heat_transfer_coeff = ( heat_input/(surface_area * temp_diff)).toFixed(3);
     //return heat_transfer_coeff;
 document.getElementById("heat_transfer_coeff").innerHTML=heat_transfer_coeff;
-var radius = (material_conductivity/heat_transfer_coeff).toFixed(3);
+var radius = (material_conductivity/heat_transfer_coeff).toFixed(4);
 
-var MOUNTAINS = [
-    {"Voltage(Volt)":voltage,"Current(Amp)":current,"Inner temp(C)":inner_temp,"Outer temp(C)":inner_temp,"Room temp(C)":inner_temp,"Heat Transfer Coffecient(w/m^2.degC)":heat_transfer_coeff, "Critical radius(m)":radius},
+var obser = [
+    {"Voltage(Volt)":voltage,"Current(Amp)":current,"Inner temp(C)":inner_temp,"Outer temp(C)":outer_temp,"Room temp(C)":ambient_temp,"Heat Transfer Coff. (w/m^2.degC)":heat_transfer_coeff, "Critical radius(m)":radius},
   ];	
   
   
@@ -29,11 +29,17 @@ var MOUNTAINS = [
       var thead = document.createElement("thead");
       var tbody = document.createElement("tbody");
       var headRow = document.createElement("tr");
-      ["Voltage(Volt)","Current(Amp)","Inner temp(C)","Outer temp(C)","Room temp(C)","Heat Transfer Coffecient(w/m^2.degC)","Critical radius(m)"].forEach(function(el) {
-        var th=document.createElement("th");
-        th.appendChild(document.createTextNode(el));
-        headRow.appendChild(th);
-      });
+      
+      while (i == 0) {
+        ["Voltage(Volt)","Current(Amp)","Inner temp(C)","Outer temp(C)","Room temp(C)","Heat Transfer Coff. (w/m^2.degC)","Critical radius(m)"].forEach(function(el) {
+            var th=document.createElement("th");
+            th.appendChild(document.createTextNode(el));
+            headRow.appendChild(th);
+          });
+        i++;
+      }
+      
+
       thead.appendChild(headRow);
       table.appendChild(thead); 
       data.forEach(function(el) {
@@ -55,7 +61,8 @@ document.getElementById("vol").setAttribute("data-value", voltage);
 document.getElementById("temp1").setAttribute("data-value", inner_temp);
 document.getElementById("temp2").setAttribute("data-value", outer_temp);
 document.getElementById("temp3").setAttribute("data-value", ambient_temp); 
-document.getElementById("content").appendChild(buildTable(MOUNTAINS));
+document.getElementById("content").appendChild(buildTable(obser));
+
     }
 
 
