@@ -1,3 +1,5 @@
+
+
 function calculation() {
 var voltage = document.getElementById("user_voltage").value;
 var current = document.getElementById("user_current").value;
@@ -21,4 +23,7 @@ document.getElementById("temp1").setAttribute("data-value", inner_temp);
 document.getElementById("temp2").setAttribute("data-value", outer_temp);
 document.getElementById("temp3").setAttribute("data-value", ambient_temp); 
     }
+
+
+
   
