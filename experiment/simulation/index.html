@@ -17,7 +17,6 @@
       <link rel="stylesheet" href="css/gauge.css">
       <script src="js/gauge.min.js"></script>
       <script src="js/bootstrap.min.js"></script>
-  
   </head>
 
 
@@ -40,6 +39,7 @@
                        <li>After the heating temperatures would be developed on metal surface and insulation surface and with the help of Newton’s Law of cooling convectivity coefficient</li>
                        <li> And then set the appropriate voltage and current readings.</li>
                        <li> it will help to calculate the critical thickness of insulation.</li>
+                       
                    </ul> 
                      </p>
                 <form id="terms"  onsubmit="if(document.getElementById('agree').checked) { 
@@ -77,18 +77,20 @@
       <!--//////////////// SIDEBAR ////////////////-->
 
         <aside class="hit_sidebar open_sidbar sidebar-slide-push">
-          <div class="calculation">
+          <form action="#"  onsubmit="return calculation() || false" id="form1" > 
+          <div class="calculation" >
             <div class="container">
               <div class="row">
                 <div class="col-md-3" >
               <input class="btn btn-danger" type="button" value="Power ON" id="onoff" style="margin-bottom: 20px; margin-left: 80px; margin-top: 15px;  "  onclick="hideSVG()"></input>
               </div>
-              </div>  
+              </div> 
+              
             <div class="row">
                 <div class="col-md-3" >
                   <div class="form-group">
                  <label class="text-white" style="font-family: sans-serif; color: white; font-weight: lighter;" for="voltage">Enter Voltage(in Volt)</label>
-                 <input type="number" class="form-control" id="user_voltage" name="user_voltage" min="0.0" step="0.1" style="width:150px;" required>
+                 <input type="number" class="form-control" max="220.0" id="user_voltage" name="user_voltage" min="0.0" step="0.1" style="width:150px;" required>
                </div>
                 </div>
                 </div>
@@ -96,7 +98,7 @@
                     <div class="col-md-3">
              <div class="form-group">
                  <label style="font-family: sans-serif; color: white; font-weight: lighter;" for="current">Enter Current(in Amp)</label>
-                 <input type="number" class="form-control" id="user_current" name="user_current" min="0.0" step="0.1" style="width:150px;" required>
+                 <input type="number" class="form-control" max="5.5" id="user_current" name="user_current" min="0.0" step="0.1" style="width:150px;" required>
              </div>
                         </div>
                     </div>
@@ -130,7 +132,7 @@
                 </div>
                 <div class="row">
                  <div class="col-md-3">
-                     <button  style="font-family: sans-serif; color: white; font-weight: lighter; margin-bottom: 30px;" id="myBtn" disabled type="button" onclick="calculation()"  class="btn btn-success btn-block">See Result Below</button>
+                     <button style="font-family: sans-serif; color: white; font-weight: lighter; margin-bottom: 30px;" id="myBtn" disabled type="submit"   class="btn btn-success btn-block">See Result Below</button>
                      <h4  style="font-family: sans-serif; color: white; font-weight: lighter; font-size: 16px;"  class="text-white">Heat Transfer Coefficient: (W/m<sup>2 o</sup>c)</h4><h4 class="text-white" style="font-family: sans-serif; color: yellow; font-weight: lighter;" id="heat_transfer_coeff">0.0</h4>
                      <h4  style="font-family: sans-serif; color: white; font-weight: lighter; font-size: 16px; " class="text-white">Critical Radius: (m) </h4><h4 class="text-white"  style="font-family: sans-serif; color: yellow; font-weight: lighter;margin-bottom: 50px;" id="radius">0.0</h4>
                      
@@ -138,6 +140,7 @@
                 </div>
                 </div> 
                 </div>
+                </form>
             
       </aside>
       
@@ -153,10 +156,16 @@
            <div class="row">
              <div style="margin-top: 85px; " class="col-md-5" >
                        <div  class=" aim"> <b> How to perform the Experiment </b></div>
-                       <div style="margin-bottom: 50px;" class="row-md-10 content1">First students have to switch on the power and set the appropriate voltage and current readings. This power supply will heat up the metal rod which is covered with the PoP insulation. After the heating temperatures would be developed on metal surface and insulation surface and with the help of Newton’s Law of cooling convectivity coefficient could be evaluated and it will help to calculate the critical thickness of insulation.</div>
-                       <div  class=" aim"> <b> Formula we will be Using: </b></div>
-                       <span > <img src="images/eqn2.56.gif" style="padding-top: 30px;"  alt="formula"> </span>
-                       <span > <img src="images/eqn2.57.gif" style="padding-left: 30px; padding-top: 50px;"  alt="formula"> </span>
+                       <div style="margin-bottom: 10px;" class="row-md-10 content1">First students have to switch on the power and set the appropriate voltage and current readings. This power supply will heat up the metal rod which is covered with the PoP insulation. After the heating temperatures would be developed on metal surface and insulation surface and with the help of Newton’s Law of cooling convectivity coefficient could be evaluated and it will help to calculate the critical thickness of insulation.</div>
+                       <div  class="aim"> <b> Formula we will be Using: </b></div>
+                       <span > <img src="images/eqn2.56.gif" style="padding-top: 20px;"  alt="formula"> </span>
+                       <span > <img src="images/eqn2.57.gif" style="padding-left: 30px; padding-top: 30px;"  alt="formula"> </span>
+                       <div style="margin-top: 50px; margin-left: 78px; " id="stopwatch">
+                        <!-- [DISPLAY TIMER] -->
+                        <div id="sw-time">00:00:00</div>
+                        <!-- [RESET BUTTON] -->
+                      </div>
+
               </div>
            
         
