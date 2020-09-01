@@ -20,7 +20,6 @@ body{
 }
 body {
     overflow-x: hidden;
-    overflow-y: auto;
   }
 ::-webkit-scrollbar {
     width: 6px;
@@ -303,3 +302,4 @@ table.gridtable td {
 	border-color: #666666;
 	background-color: #ffffff;
 }
+
