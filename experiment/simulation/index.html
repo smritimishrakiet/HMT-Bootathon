@@ -132,7 +132,7 @@
                 </div>
                 <div class="row">
                  <div class="col-md-3">
-                     <button style="font-family: sans-serif; color: white; font-weight: lighter; margin-bottom: 30px;" id="myBtn" disabled type="submit"   class="btn btn-success btn-block">See Result Below</button>
+                     <button style="font-family: sans-serif; color: white; font-weight: lighter; margin-bottom: 30px;" id="myBtn" disabled type="submit"   class="btn btn-success btn-block" onclick="graph()">See Result Below</button>
                      <h4  style="font-family: sans-serif; color: white; font-weight: lighter; font-size: 16px;"  class="text-white">Heat Transfer Coefficient: (W/m<sup>2 o</sup>c)</h4><h4 class="text-white" style="font-family: sans-serif; color: yellow; font-weight: lighter;" id="heat_transfer_coeff">0.0</h4>
                      <h4  style="font-family: sans-serif; color: white; font-weight: lighter; font-size: 16px; " class="text-white">Critical Radius: (m) </h4><h4 class="text-white"  style="font-family: sans-serif; color: yellow; font-weight: lighter;margin-bottom: 50px;" id="radius">0.0</h4>
                      
@@ -462,14 +462,29 @@
         
             
               
-         </div> 
-         <div class="row" style="margin-top: 30px; margin-bottom: 50px; margin-left: 20px;" >
+         </div>
+         <div id="tabl"  class="row" style="margin-top: 30px; margin-bottom: 50px; margin-left: 20px; display:none;" >
+          
            <div class="col">
-            <div id="content"></div>
+            <div id="content">
+              
+            </div>
            </div>
+
+           
+         </div>
+         
+         <div id="grap" class="row" style="margin-top: 30px; margin-bottom: 50px; margin-left: 360px; display:none;" >
+          
+          <div class="col" >
+              <p id="tab"></p> 
+            <canvas id="chartdiv"> </canvas>
          </div>
         </div>
-       </section>
+        </div>
+        </section>
+
+
        
       
       <script src="js/GaugeMeter.js"></script>
