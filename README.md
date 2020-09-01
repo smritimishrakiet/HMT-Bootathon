@@ -40,7 +40,7 @@ B.Tech MECHANICAL ENGINEERING
 
 <h5> Universities Mapped : </h5>
 
-AKTU : universities mapped
+AKTU 
 
 <b>Name of Developer | <b> Smriti Mishra 
 :--|:--|
