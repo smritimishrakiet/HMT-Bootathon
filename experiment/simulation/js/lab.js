@@ -1,5 +1,4 @@
 var i = 0;
-var inc=0;
 
 function calculation() {
 var voltage = document.getElementById("user_voltage").value;
@@ -12,31 +11,12 @@ var material_conductivity = 0.48;
 
 var heat_input = voltage * current;
 var temp_diff = outer_temp - ambient_temp;
-$("#tabl").css({"display": "block"});
 
 
 var heat_transfer_coeff = ( heat_input/(surface_area * temp_diff)).toFixed(3);
     //return heat_transfer_coeff;
 document.getElementById("heat_transfer_coeff").innerHTML=heat_transfer_coeff;
 var radius = (material_conductivity/heat_transfer_coeff).toFixed(4);
-
-
-
-       
-         inc=inc+1;
-         if(inc>=3) {
-          $("#tab").html("variation of heat coffecient with radius");
-          $("#chartdiv").css({"border-left": "1px solid black", "border-bottom": "1px solid black"});
-          $("#grap").css({"display": "block"});
-
-          var c = document.getElementById("chartdiv");
-            var ctx = c.getContext("2d");
-            ctx.beginPath();
-            ctx.moveTo(50, 80);
-            ctx.quadraticCurveTo(80, -20, 250, 100);
-            ctx.stroke();
-         }
-        
 
 var obser = [
     {"Voltage(Volt)":voltage,"Current(Amp)":current,"Inner temp(C)":inner_temp,"Outer temp(C)":outer_temp,"Room temp(C)":ambient_temp,"Heat Transfer Coff. (w/m^2.degC)":heat_transfer_coeff, "Critical radius(m)":radius},
@@ -82,8 +62,6 @@ document.getElementById("temp1").setAttribute("data-value", inner_temp);
 document.getElementById("temp2").setAttribute("data-value", outer_temp);
 document.getElementById("temp3").setAttribute("data-value", ambient_temp); 
 document.getElementById("content").appendChild(buildTable(obser));
-
-
 
     }
 
