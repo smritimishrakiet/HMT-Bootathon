@@ -40,7 +40,7 @@ B.Tech MECHANICAL ENGINEERING
 
 <h5> Universities Mapped : </h5>
 
-AKTU 
+AKTU Lucknow
 
 <b>Name of Developer | <b> Smriti Mishra 
 :--|:--|
