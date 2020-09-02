@@ -43,7 +43,7 @@ body {
 #content_body {
     width: 100%;
     display: block;
-    margin-left: 170px;
+    margin-left: 200px;
     transition: all .3s cubic-bezier(.55,0,.1,1);
 }
 .margin_left{
@@ -71,7 +71,7 @@ body {
 }
  .navbar button {
      border: none;
-     width: 50px;
+     width: 40px;
      cursor: pointer;
      height: 50px;
      color: white;
@@ -91,7 +91,7 @@ body {
      content: '';
      position: absolute;
      top: 50%;
-     left: 50%;
+     left: 40%;
      width: 5px;
      height: 5px;
      background: rgba(255, 255, 255, .5);
