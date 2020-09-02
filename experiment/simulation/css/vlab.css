@@ -43,7 +43,7 @@ body {
 #content_body {
     width: 100%;
     display: block;
-    margin-left: 190px;
+    margin-left: 170px;
     transition: all .3s cubic-bezier(.55,0,.1,1);
 }
 .margin_left{
