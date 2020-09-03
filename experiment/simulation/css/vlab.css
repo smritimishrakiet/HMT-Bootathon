@@ -198,13 +198,11 @@ body {
     font-family: sans-serif;
     font-size:24px;
     margin-top: 20px;
-    padding-right: 20%;
 }
 .content1{
     font-family: sans-serif;
     font-size:17px;
     margin-top: 20px;
-    padding-right: 20%;
     font-weight: 500;
 }
 .heat{
@@ -302,3 +300,16 @@ table.gridtable td {
 	border-color: #666666;
 	background-color: #ffffff;
 }
+@media only screen and (max-width: 1024px) and (min-width: 300px) {
+    #content_body {
+        width: 100%;
+        display: block;
+        margin-left:300px;
+        transition: all .3s cubic-bezier(.55,0,.1,1);
+    }
+    #sim
+    {
+        width: 200px;
+        height: 200px;
+    }
+  }
