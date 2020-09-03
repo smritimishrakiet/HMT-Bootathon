@@ -300,7 +300,7 @@ table.gridtable td {
 	border-color: #666666;
 	background-color: #ffffff;
 }
-@media only screen and (max-width: 1024px) and (min-width: 300px) {
+@media only screen and (max-width: 1025px) and (min-width: 300px) {
     #content_body {
         width: 100%;
         display: block;
@@ -312,4 +312,5 @@ table.gridtable td {
         width: 200px;
         height: 200px;
     }
+
   }
