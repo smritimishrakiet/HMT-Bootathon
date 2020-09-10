@@ -11,7 +11,7 @@
 <b> Lab | <b> Heat and Mass Transfer
 <b> Experiment|     <b>  To determine critical thickness of insulation of metal rod
 
-<hr>
+
 
 <a name="LO"></a>
 #### 1. Focus Area : Heat and Mass Transfer (Thermal Engineering) 
@@ -24,8 +24,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 1.| User will be able to: <br> Describe the concept of critical radius of insulation. | [Understand](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Describe](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
 2.| User will be able to: <br>Verify the convective heat transfer coefficient <br>with the help of temperature of various surfaces. | [Understand](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Understand](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
 3.| User will be able to: <br>Apply his knowledge of critical radius to improve the amount of heat transfer | [Apply](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Apply](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-4.| User will be able to: <br>Analyze and evaluate the conductive and convective heat<br>transfer coefficient and also determine the critical radius<br> for particular material. 
-  | [Evaluation](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Evaluate ](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
+4.| User will be able to: <br>Analyze and evaluate the conductive and convective heat<br>transfer coefficient and also determine the critical radius<br> for particular material. | [Evaluation](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Evaluate ](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
 
 
 <br/>
