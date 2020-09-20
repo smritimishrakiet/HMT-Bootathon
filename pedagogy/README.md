@@ -37,10 +37,12 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 <a name="IS"></a>
 #### 3. Instructional Strategy
 
-<u> <b>Name of Instructional Strategy  : </b> Expository Method 
+<u> <b>Name of Instructional Strategy  : </b> " Expository Method "
+  <br> First students have to switch on the power and set the appropriate voltage and current readings. This power supply will heat up the metal rod which is covered with the PoP insulation. After the heating temperatures would be developed on metal surface and insulation surface and with the help of Newton’s Law of cooling convectivity coefficient could be evaluated and it will help to calculate the critical thickness of insulation.
     
 <u> <b>Assessment Method: </b>  Summative Assessment  
-
+Assessment could be done on the basis of viva-voce. 
+    
 <u> <b>Description: </b> of how you are going to implement the above Instructional Strategy in your Simulator: </u>
 <br>
   In simulator a workpiece has taken on which a layer of insulation is considered. When the simulator starts and voltage and current value will be provided then heating would be started and on the basis of the heating simulator will provide temperature value and automatic calculation will occur that will give convectivity coefficient value and critical radius of insulation value. 
