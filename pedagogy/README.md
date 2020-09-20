@@ -14,7 +14,7 @@
 
 
 <a name="LO"></a>
-#### 1. Focus Area : Heat and Mass Transfer (Thermal Engineering) 
+#### 1. Focus Area : Reinforce theoretical concepts, Experimentation and Data Analysis 
 
 #### 2. Learning Objectives and Cognitive Level
 
@@ -37,9 +37,9 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 <a name="IS"></a>
 #### 3. Instructional Strategy
 
-<u> <b>Name of Instructional Strategy  : </b> First students have to switch on the power and set the appropriate voltage and current readings. This power supply will heat up the metal rod which is covered with the PoP insulation. After the heating temperatures would be developed on metal surface and insulation surface and with the help of Newton’s Law of cooling convectivity coefficient could be evaluated and it will help to calculate the critical thickness of insulation. 
+<u> <b>Name of Instructional Strategy  : </b> Expository Method 
     
-<u> <b>Assessment Method: </b>  Assessment could be done on the basis of viva-voce.  
+<u> <b>Assessment Method: </b>  Summative Assessment  
 
 <u> <b>Description: </b> of how you are going to implement the above Instructional Strategy in your Simulator: </u>
 <br>
@@ -78,7 +78,7 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
-1.| Activity description <br> Student will switch  <br> on the power button | Click on the  <br> 'Start Button’   | The main purpose is to provide power supply to the apparatus.
-2.| Activity description <br> Student will set the appropriate  <br> value of voltage and current | Click on the <br> ‘voltage and current rheostat '  | The main purpose is to provide appropriate amount of heat to the workpiece (Q=VI)
-3.| Activity description <br> Student will wait for the steady state and  <br> note down the temperature | Click on the  <br> ‘Temperature value will be displayed '  | The main purpose is to determine amount of heat conducted from metal rod to insulation and amount of heat convected from insulation  to atmosphere.
-4.| Activity description <br> Student will perform the calculation part and  <br> get the value of required result. | Click on the <br> ‘Show result and automatic calculation will be done which will give the required result. '  | The main purpose is to determine the critical radius upto which amount of heat transfer could be increased.
+1.|Student will switch  <br> on the power button | It shows the light instructions | The main purpose is to provide power supply to the apparatus.
+2.|Student will set the appropriate  <br> value of voltage and current | It shows the value of Voltage, Ammeter | The main purpose is to provide appropriate amount of heat to the workpiece (Q=VI)
+3.|Student will wait for the steady state and  <br> note down the temperature | Temperature value will be displayed | The main purpose is to determine amount of heat conducted from metal rod to insulation and amount of heat convected from insulation  to atmosphere.
+4.|Student will perform the calculation part and  <br> get the value of required result. | Simulator will show the result and automatic calculation will be done which will give the required result and also observation table will form | The main purpose is to determine the critical radius upto which amount of heat transfer could be increased.
