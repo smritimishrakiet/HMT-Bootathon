@@ -62,7 +62,7 @@ d. none of the above
 ##### 2.6 Conclusion:
 After completion of the experiment student will able to conclude that when we add insulation around cylindrical or spherical surface, rate of heat transfer will increase upto certain limit and after this particular value heat transfer will start decreasing. That limit is called critical radius of insulation. The rate of heat transfer increases because of combined mode of heat transfer as conductive heat decreases in logarithmic manner and convective heat transfer increases linearly so its combined effect increases the amount of heat transfer.
 
-##### 2.7 Equations/formulas: NA
+##### 2.7 Equations/formulas:
 T1= Temperature of metal rod (inner surface)
 T2= Temperature of outer Surface
 T3= Ambient Temperature
@@ -76,7 +76,7 @@ Critical Radius(Rc)= k/h
 
 
 
-### 3. Flowchart 4
+### 3. Flowchart 
 <img src="flowchart/flowchart.png"/><br>
 link to flow chart Here : <a href="flowchart/flowchart.png" > [here] </a>
 <br>
