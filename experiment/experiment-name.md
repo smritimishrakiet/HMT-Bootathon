@@ -1,2 +1,1 @@
-## <!-- Experiment Name -->
-To determine critical thickness of insulation of metal rod
+## To determine critical thickness of insulation of metal rod
