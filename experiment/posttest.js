@@ -90,28 +90,47 @@
 
   const myQuestions = [
     {
-      question: "This is question 1?",  ///// Write the question inside double quotes
+      question: "After adding insulation amount of heat convection",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "Increases",                  ///// Write the option 1 inside double quotes
+        b: "Decreases",                  ///// Write the option 2 inside double quotes
+        c: "No Change",                  ///// Write the option 3 inside double quotes
+        d: "None of the above"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "a"                ///// Write the correct option inside double quotes
     },
 
     {
-      question: "This is question 2?",  ///// Write the question inside double quotes
+      question: "Illustrate the effect of change in outer radius of the hollow cylinder on the thermal resistance of conduction?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "the thermal resistance of conduction increases with increase in outer radius of the hollow cylinder",                  ///// Write the option 1 inside double quotes
+        b: "the thermal resistance of conduction decreases with increase in outer radius of the hollow cylinder",                  ///// Write the option 2 inside double quotes
+        c: "the thermal resistance of conduction remains same with change in outer radius of the hollow cylinder",                  ///// Write the option 3 inside double quotes
+        d: "unpredictable"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "b"                ///// Write the correct option inside double quotes
+      correctAnswer: "a"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
     									                  ///// this line
-
+    {
+      question: "What is the effect of change in outer radius of the hollow cylinder on the thermal resistance of convection?",
+      answers: {
+        a: "the thermal resistance of convection increases with increase in outer radius of the hollow cylinder",
+        b: "the thermal resistance of convection decreases with increase in outer radius of the hollow cylinder",
+        c: "the thermal resistance of convection remains same with change in outer radius of the hollow cylinder",
+        d: "unpredictable"
+      },
+      correctAnswer: "b"
+    },
+        {
+      question: "What is the formula for thermal resistance for convection at the outer surface of hollow cylinder? Where, h = convection heat transfer coefficient l = length of hollow cylinder r = outer radius of the cylinder",
+      answers: {
+        a: "Rc = 1 / h r l",
+        b: "Rc = 2 π h r l",
+        c: "Rc = 1 / 2 π h r l",
+        d: "none of the above"
+      },
+      correctAnswer: "c"
+    },
 
     /* To add more MCQ's, copy the below section, starting from open curly braces ( { )
         till closing curly braces comma ( }, )
