@@ -1,32 +1,27 @@
 ## <b> Pre-test
 #### Please attempt the following questions
 
-1) Interference occurs due to _______ of the light.<br>
-<b>a) Wave nature<br></b>
-b) particle nature<br>
-c) both a and b<br>
-d) none of these<br>
+1. Discuss that with an increase in the thickness of insulation around a circular pipe heat loss to surrounding due to: <br>
+<b> a.	Convection increases while that due to conduction decreases </b> <br>
+b.	Convection decreases while that due to conduction increases <br>
+c.	Convection and conduction decreases <br>
+d.	Convection and conduction increases<br><br>
 
-2) Superposition of crest over crest results in __________ .<br>
-a) Destructive interference<br>
-<b> b) Constructive interference<br></b>
-c) Diffraction<br>
-d) Polarization<br>
+2. Select the name of governing law for conduction:<br>
+<b> a.	Fourier’s Law </b> <br>
+b.	Newton’s Law<br>
+c.	Kirchoff’s Law<br>
+d.	Steffan’s Law<br><br>
 
-3) If two waves with amplitude (y1) and (y2) travelling in the same medium reach at a point in the medium, then the resultant displacement at that point in the medium, will be given by __________ .<br>
-a) y1 -y2<br>
-<b>b) y1 + y2<br></b>
-c) y1 / y2<br>
-d) y1 * y2<br>
-
-4) The condition for destructive interference is: the path difference should be equal to __________. <br>
-<b>a) Odd integral multiple of wavelength<br></b>
-b) Integral multiple of wavelength<br>
-c) Odd integral multiple of half wavelength<br>
-d) Integral multiple of half wavelength<br>
-
-5) In Newton's ring experiment, the diameter of the dark rings is proportional to __________ .<br>
-a) Odd natural numbers<br>
-b) Even natural numbers<br>
-c) Complex numbers<br>
-<b>d) square root of natural numbers<br></b>
+3. When heat is transferred from one particle of hot body to another by actual motion of the heated particles, it is referred to as heat transfer by:<br>
+<b> a. conduction </b><br>
+b. convection<br>
+c. radiation<br>
+d. conduction and convection<br><br>
+ 
+4. The amount of heat flow through a body by conduction is:<br>
+a. directly proportional to the surface area of the body<br>
+b. directly proportional to the temperature difference on the two faces of the body<br>
+c. dependent upon the material of the body<br>
+d. inversely proportional to the thickness of the body<br>
+<b> e. all of the above </b> <br><br>
