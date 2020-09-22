@@ -1,2 +1,2 @@
-### Lab Name
-Heat Mass Transfer Lab ( RME-552 )
+### Heat Mass Transfer Lab ( RME-552 )
+
