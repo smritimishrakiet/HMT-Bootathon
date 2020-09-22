@@ -1,32 +1,29 @@
 ## Post test
 <br>
-Q 1. What will happen, if the glass plate is replaced with plane mirror?<br>
-<b>a. There will be no interference fringe<br></b>
-b. There will be interference fringe<br>
-c. colored fringes will be observed<br>
-d. None of the options<br><br>
+1. After adding insulation amount of heat convection<br>
+<b> a. Increases </b><br>
+b. Decreases<br>
+c. No Change<br>
+d. None of the above<br><br>
 
-Q 2. What will happen, if sodium light is replaced with white light?<br>
-a. There will be no interference fringe<br>
-b. There will be interference fringe<br>
-<b>c. colored fringes will be observed<br></b>
-d. No change in pattern is visible<br>
+2. Illustrate the effect of change in outer radius of the hollow cylinder on the thermal resistance of conduction?<br>
+<b> a. the thermal resistance of conduction increases with increase in outer radius of the hollow cylinder </b><br>
+b. the thermal resistance of conduction decreases with increase in outer radius of the hollow cylinder<br>
+c. the thermal resistance of conduction remains same with change in outer radius of the hollow cylinder<br>
+d. unpredictable<br><br>
 
-Q 3. What will appear, if in place of lens, a plane glass making some angle with the glass stripe  is used?<br>
-<b>a. Alternate dark and bright fringes in shape of a straight line.<br></b>
-b. triangular interference pattern<br>
-c. colored fringes will be observed<br>
-d. No change in pattern is visible<br>
+3. What is the effect of change in outer radius of the hollow cylinder on the thermal resistance of convection?<br>
+a. the thermal resistance of convection increases with increase in outer radius of the hollow cylinder<br>
+<b> b. the thermal resistance of convection decreases with increase in outer radius of the hollow cylinder </b><br>
+c. the thermal resistance of convection remains same with change in outer radius of the hollow cylinder<br>
+d. unpredictable<br><br>
 
-Q 4. Colours observed in thin film are because of ________________<br>
-a. Diffraction<br>
-<b>b. Interference<br></b>
-c. Polarization<br>
-d. None of the options<br>
-
-Q 5.  In Newton’s rings experiment, rings are formed when the light is ________________ by
-lower surface of the lens and upper surface of the glass plate, interfere.<br>
-a. Reflected<br>
-<b>b. Refracted<br></b>
-c. Transmitted<br>
-d. None<br></b>
+4. What is the formula for thermal resistance for convection at the outer surface of hollow cylinder?
+Where,
+h = convection heat transfer coefficient
+l = length of hollow cylinder
+r = outer radius of the cylinder<br>
+a. Rc = 1 / h r l<br>
+b. Rc = 2 π h r l<br>
+<b> c. Rc = 1 / 2 π h r l </b><br>
+d. none of the above<br><br>
