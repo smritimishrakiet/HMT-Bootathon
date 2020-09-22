@@ -1,1 +1,3 @@
-Heat and Mass Transfer: Fundamentals & Applications Book by Afshin Jahanshahi Ghajar and Yungus A. Cengel
+Heat And Mass Transfer by R. K. Rajput <br>
+Heat And Mass Transfer by P. K. Nag <br>
+Heat And Mass Transfer by Cenjel <br>
