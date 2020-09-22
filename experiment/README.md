@@ -31,7 +31,7 @@ c.	Kirchoff’s Law<br>
 d.	Steffan’s Law<br><br>
 
 3. When heat is transferred from one particle of hot body to another by actual motion of the heated particles, it is referred to as heat transfer by:<br>
-<b> a. conduction </b> <br>     
+<b> a. conduction </b><br>
 b. convection<br>
 c. radiation<br>
 d. conduction and convection<br><br>
