@@ -90,28 +90,47 @@
 
   const myQuestions = [
     {
-      question: "This is question 1?",  ///// Write the question inside double quotes
+      question: "Discuss that with an increase in the thickness of insulation around a circular pipe heat loss to surrounding due to: ",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "Convection increases while that due to conduction decreases",                  ///// Write the option 1 inside double quotes
+        b: "Convection increases while that due to conduction increases",                  ///// Write the option 2 inside double quotes
+        c: "Convection and conduction decreases",                  ///// Write the option 3 inside double quotes
+        d: "Convection and conduction increases"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "a"                ///// Write the correct option inside double quotes
     },
 
     {
-     question: "This is question 2?",  ///// Write the question inside double quotes
+     question: "Select the name of governing law for conduction:",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "Fourier’s Law",                  ///// Write the option 1 inside double quotes
+        b: "Newton’s Law",                  ///// Write the option 2 inside double quotes
+        c: "Kirchoff’s Law",                  ///// Write the option 3 inside double quotes
+        d: "Steffan’s Law"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "b"                ///// Write the correct option inside double quotes
+      correctAnswer: "a"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
     									                  ///// this line
-
+{
+      question: "When heat is transferred from one particle of hot body to another by actual motion of the heated particles, it is referred to as heat transfer by:",
+      answers: {
+        a: "conduction",
+        b: "convection",
+        c: "radiation",
+        d: "conduction and convection"
+      },
+      correctAnswer: "a"
+    },
+    {
+      question: "The amount of heat flow through a body by conduction is:",
+      answers: {
+        a: "directly proportional to the surface area of the body",
+        b: "directly proportional to the temperature difference on the two faces of the body",
+        c: "dependent upon the material of the body",
+        d: "all of the above"
+      },
+      correctAnswer: "d"
+    },
 
     /* To add more MCQ's, copy the below section, starting from open curly braces ( { )
         till closing curly braces comma ( }, )
