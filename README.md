@@ -50,7 +50,7 @@ AKTU Lucknow
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | Prathu Singh | Student | ME | KIET Group of Institution, Delhi-NCR, Ghaziabad |prathu.1822me1195@kiet.edu
-2 | Atul Kashayap | Student | CSE | KIET Group of Institution, Delhi-NCR, Ghaziabad |atulk4719235753721@gmail.com
+2 | Atul Kashyap | Student | CSE | KIET Group of Institution, Delhi-NCR, Ghaziabad |atulk4719235753721@gmail.com
 3 | Aditi Srivastava | Student | CSE | KIET Group of Institution, Delhi-NCR, Ghaziabad |aditi.1822cs1017@kiet.edu
 4 | Eksha Singh | Student | IT | KIET Group of Institution, Delhi-NCR, Ghaziabad |eksha.1822it1055@kiet.edu
 
