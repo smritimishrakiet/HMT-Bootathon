@@ -2,44 +2,44 @@
 
    "details": [
        {
-			"Experiment": "",     
-			"Lab": "",               
-			"Discipline": "",				 
+			"Experiment": "Conduction- Determine critical thickness of insulation of metal rod",     
+			"Lab": "Heat and Mass Transfer",               
+			"Discipline": "Mechanical Engineering",				 
 			"Technology": ""         
        }
    ],
 
    "developer": [
        {       
-      "Developer": "",         
-      "Institute": "",         
-      "InstituteAcronym": ""   
+      "Developer": "Smriti Mishra",         
+      "Institute": "KIET Group of Institution, Delhi-NCR, Ghaziabad",         
+      "InstituteAcronym": "KIET"   
        }
    ],
 
    "contributer": [
        {       
-			"Contributer": "",             
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Prathu Singh",             
+      "Institute": "KIET Group of Institution, Delhi-NCR, Ghaziabad",               
+			"InstituteAcronym": "KIET"         
        },
 
        {       
-			"Contributer": "",              
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Atul Kashayap",              
+      "Institute": "KIET Group of Institution, Delhi-NCR, Ghaziabad",               
+			"InstituteAcronym": "KIET"         
        },
 
        {       
-			"Contributer": "",             
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Aditi Srivastava",             
+      "Institute": "KIET Group of Institution, Delhi-NCR, Ghaziabad",               
+			"InstituteAcronym": "KIET"         
        },
 
        {       
-			"Contributer": "",              
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Eksha Singh",              
+      "Institute": "KIET Group of Institution, Delhi-NCR, Ghaziabad",               
+			"InstituteAcronym": "KIET"         
        }
    ]
 
